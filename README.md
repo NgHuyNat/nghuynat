@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **nghuytan.ptit@gmail.com**
 
-- My blog: 
-<img src="./assets/qrcode_amusing-punch-139.notion.site.png" alt="https://byvn.net/ijnW" style="width:150px; height:auto; display:block; margin: 0 auto;">
-
+- My blog: **https://blog-hynat.io.vn/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
