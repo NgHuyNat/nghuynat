@@ -24,15 +24,15 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:user.svg?color=%2358A6FF" width="26" height="26" /> Về bản thân
+### ![User](https://api.iconify.design/lucide:user.svg?color=%2358A6FF&width=26) Về bản thân
 
-- <img src="https://api.iconify.design/lucide:code.svg?color=%2358A6FF" width="18" height="18" /> Hiện tại mình đang học tập và nghiên cứu về **App & DevOps**
-- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="18" height="18" /> Sinh viên ngành Công nghệ thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
-- <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="18" height="18" /> **Sở thích:** Thích khám phá các công nghệ mới và tối ưu hóa hệ thống.
+- ![Code](https://api.iconify.design/lucide:code.svg?color=%2358A6FF&width=18) Hiện tại mình đang học tập và nghiên cứu về **App & DevOps**
+- ![Edu](https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF&width=18) Sinh viên ngành Công nghệ thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
+- ![Zap](https://api.iconify.design/lucide:zap.svg?color=%2358A6FF&width=18) **Sở thích:** Thích khám phá các công nghệ mới và tối ưu hóa hệ thống.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" height="26" /> Tech Stack & Workspace
+### ![Terminal](https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF&width=26) Tech Stack & Workspace
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:activity.svg?color=%2358A6FF" width="26" height="26" /> GitHub Metrics
+### ![Activity](https://api.iconify.design/lucide:activity.svg?color=%2358A6FF&width=26) GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nghuynat&show_icons=true&locale=en&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="nghuynat stats" />
