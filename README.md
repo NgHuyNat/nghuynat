@@ -26,7 +26,7 @@
 
 ### ![User](https://api.iconify.design/lucide:user.svg?color=%2358A6FF&width=26) Về bản thân
 
-- ![Code](https://api.iconify.design/lucide:code.svg?color=%2358A6FF&width=18) Hiện tại mình đang học tập và nghiên cứu về **App & DevOps**
+- ![Code](https://api.iconify.design/lucide:code.svg?color=%2358A6FF&width=18) Hiện tại mình đang học tập và nghiên cứu về **DevOps & Cloud**
 - ![Edu](https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF&width=18) Sinh viên ngành Công nghệ thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
 - ![Zap](https://api.iconify.design/lucide:zap.svg?color=%2358A6FF&width=18) **Sở thích:** Thích khám phá các công nghệ mới và tối ưu hóa hệ thống.
 
