@@ -56,7 +56,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghuynat&theme=dracula&hide_border=true&background=0D1117" alt="nghuynat streak" />
 </div>
-
 <br>
 
 <div align="center">
@@ -65,4 +64,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghuynat/nghuynat/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nghuynat/nghuynat/output/github-contribution-grid-snake.svg">
   </picture>
+  <h4><img src="https://api.iconify.design/lucide:calendar-days.svg?color=%2358A6FF" width="22" height="22" /> Contributions (Last 365 Days)</h4>
 </div>
