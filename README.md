@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=22&strikethrough=false&underline=false&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=IT+Student+at+PTIT+%7C+Backend+%26+DevOps+Engineer+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG - Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=22&strikethrough=false&underline=false&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=IT+Student+at+PTIT+%7C+Aspiring+App+%26+DevOps+Engineer+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG - Subtitle" />
   </a>
 </div>
 
@@ -24,15 +24,15 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:user.svg?color=%2358A6FF" width="26" height="26" align="center" /> Về bản thân
+### <img src="https://api.iconify.design/lucide:user.svg?color=%2358A6FF" width="26" height="26" /> Về bản thân
 
-- <img src="https://api.iconify.design/lucide:code.svg?color=%2358A6FF" width="18" height="18" align="center" /> Hiện tại mình đang học tập và nghiên cứu về **App & DevOps**
-- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="18" height="18" align="center" /> Sinh viên ngành Công nghệ thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
-- <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="18" height="18" align="center" /> **Sở thích:** Thích khám phá các công nghệ mới và tối ưu hóa hệ thống.
+- <img src="https://api.iconify.design/lucide:code.svg?color=%2358A6FF" width="18" height="18" /> Hiện tại mình đang học tập và nghiên cứu về **App & DevOps**
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2358A6FF" width="18" height="18" /> Sinh viên ngành Công nghệ thông tin tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="18" height="18" /> **Sở thích:** Thích khám phá các công nghệ mới và tối ưu hóa hệ thống.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" height="26" align="center" /> Tech Stack & Workspace
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="26" height="26" /> Tech Stack & Workspace
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:activity.svg?color=%2358A6FF" width="26" height="26" align="center" /> GitHub Metrics
+### <img src="https://api.iconify.design/lucide:activity.svg?color=%2358A6FF" width="26" height="26" /> GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nghuynat&show_icons=true&locale=en&theme=dracula&hide_border=true&bg_color=0D1117" height="195" alt="nghuynat stats" />
